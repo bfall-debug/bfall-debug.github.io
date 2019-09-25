@@ -62,6 +62,7 @@ a {
 #contact-info,
 #bio-image {
   float: left;
+  clear: both;
 }
 
 #main-bio {
